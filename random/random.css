@@ -1,0 +1,16 @@
+p {
+  font-family: Arial;
+  font-size: 50px;
+  text-align: center;
+  width: 200px;
+}
+
+body {
+  background-color: pink;
+}
+
+div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
